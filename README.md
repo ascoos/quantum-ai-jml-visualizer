@@ -40,7 +40,7 @@ Everything runs **natively**, without frameworks, without template engines, and 
 /quantum-ai-jml-visualizer
 │
 ├── quantum_ai_jml_visualizer.php   # Main case study file
-├── LICENSE.md                      # AGL-G License
+├── LICENSE.md                      # AGL-F License
 ├── README.md                       # English documentation
 └── README-GR.md                    # Greek documentation
 ```

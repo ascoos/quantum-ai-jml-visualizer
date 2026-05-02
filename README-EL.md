@@ -40,7 +40,7 @@
 /quantum-ai-jml-visualizer
 │
 ├── quantum_ai_jml_visualizer.php   # Κύριο αρχείο case study
-├── LICENSE.md                      # AGL-G License
+├── LICENSE.md                      # AGL-F License
 ├── README.md                       # Αγγλική τεκμηρίωση
 └── README-GR.md                    # Ελληνική τεκμηρίωση
 ```
