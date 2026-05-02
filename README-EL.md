@@ -1,9 +1,11 @@
 # Quantum AI JML Visualizer  
 ### Οπτικοποίηση Κβαντικής Αποσυνοχής & AI Drift Prediction με το Ascoos OS Kernel 1.0.0
 
-![License](https://img.shields.io/badge/license-AGL--F-blue.svg)
-![PHP](https://img.shields.io/badge/PHP-8.4%2B-777BB4)
-![Ascoos OS](https://img.shields.io/badge/Ascoos%20OS-Kernel%201.0.0-orange)
+![License](https://img.shields.io/badge/license-AGL--F-blue.svg?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.4%2B-777BB4?style=for-the-badge)
+![Ascoos OS](https://img.shields.io/badge/Ascoos%20OS-Kernel%201.0.0-darkred?style=for-the-badge)
+![Category](https://img.shields.io/badge/Κατηγορία-Κβαντική%20--%20AI-darkgreen?style=for-the-badge)
+
 
 ---
 
